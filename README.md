@@ -26,7 +26,7 @@ Chạy ứng dụng:
 
 ## Sử dụng Stable Diffusion WebUI trực tiếp
 
-* Mở [http://127.0.0.1:7860/] hoặc [http://localhost:7860] và vào tab img2img -> vào tab Inpaint -> Upload ảnh vào tô chỗ cần redraw 😉
+* Mở [http://127.0.0.1:7860/] hoặc [http://localhost:7860/] và vào tab img2img -> vào tab Inpaint -> Upload ảnh vào tô chỗ cần redraw 😉
 * Nhớ tích Fill, Only masked content -> Generate
 * Prompt nên dùng:
 ```bash
