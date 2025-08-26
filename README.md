@@ -1,4 +1,4 @@
-# Sxx Glass (Seg Glass)
+# Sxx Glass (Seg Glass) <i class="fa-brands fa-github"></i>
 
 Ứng dụng AI chỉnh sửa ảnh anime với khả năng thay đổi trang phục. Lưu ý rằng ứng dụng này chỉ dành cho mục đích nghiên cứu và sử dụng cá nhân. Diffusion WebUI (Automatic1111) có tính năng inpainting mạnh mẽ và cho phép vẽ mask trực tiếp.
 
