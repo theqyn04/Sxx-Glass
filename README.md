@@ -1,13 +1,13 @@
-# Sxx Glass (Seg Glass) <i class="fa-brands fa-github"></i>
+# Sxx Glass (Seg Glass) 🍷
 
-Ứng dụng AI chỉnh sửa ảnh anime với khả năng thay đổi trang phục. Lưu ý rằng ứng dụng này chỉ dành cho mục đích nghiên cứu và sử dụng cá nhân. Diffusion WebUI (Automatic1111) có tính năng inpainting mạnh mẽ và cho phép vẽ mask trực tiếp.
+Ứng dụng AI chỉnh sửa ảnh anime với khả năng thay đổi trang phục. ⚠️Lưu ý rằng ứng dụng này chỉ dành cho mục đích nghiên cứu và sử dụng cá nhân. Diffusion WebUI (Automatic1111) có tính năng inpainting mạnh mẽ và cho phép vẽ mask trực tiếp.
 
 **Mô hình segmentation** (phân vùng ảnh) để xác định đối tượng
 **Stable Diffusion** để chỉnh sửa hoặc tạo ảnh dựa trên segmentation mask
 
-## Cách sử dụng Stable Diffusion WebUI để xóa/quần áo?
+## Cách sử dụng Stable Diffusion WebUI để xóa/quần áo?😈
 
-Hãy chắc  python phải cài đúng bản 3.10.6.
+Hãy chắc chắn python phải cài đúng bản 3.10.6.
 
 Cài đặt Stable Diffusion WebUI:
 
