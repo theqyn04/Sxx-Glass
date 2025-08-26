@@ -12,10 +12,11 @@ Cài đặt các thư viện cần thiết:
 ```bash
   pip install torch torchvision torchaudio
   pip install diffusers transformers streamlit opencv-python pillow
+  pip install streamlit-drawable-canvas
 ```
 
 Chạy ứng dụng:
 
 ```bash
-  streamlit run seg_mirror.py
+  streamlit run seg_glass.py
 ```
