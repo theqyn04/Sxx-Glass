@@ -24,7 +24,7 @@ Chạy ứng dụng:
   run webui.bat
 ```
 
-### Sử dụng Stable Diffusion WebUI trực tiếp
+## Sử dụng Stable Diffusion WebUI trực tiếp
 
 * Mở [http://127.0.0.1:7860/] hoặc [http://localhost:7860] và vào tab img2img -> vào tab Inpaint -> Upload ảnh vào tô chỗ cần redraw 😉
 * Nhớ tích Fill, Only masked content -> Generate
@@ -41,7 +41,7 @@ Chạy ứng dụng:
   Denoising strength: 0.7-0.9
 ```
 
-#### Extension hữu ích:
+## Extension hữu ích:
 
 Cài thêm các extension cho WebUI:
 
