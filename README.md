@@ -45,7 +45,7 @@ Chạy ứng dụng:
 ## Sử dụng Stable Diffusion WebUI trực tiếp
 
 * Mở [http://127.0.0.1:7860/] hoặc [http://localhost:7860/] và vào tab img2img -> vào tab Inpaint -> Upload ảnh vào tô chỗ cần redraw 😉
-* Nhớ tích Fill, Only masked content -> Generate
+* Nhớ tích Fill, Only masked
 * Prompt nên dùng:
 ```bash
   positive: "nude, naked, no clothes, bare skin, high quality, detailed"
@@ -58,4 +58,4 @@ Chạy ứng dụng:
   CFG scale: 7-10
   Denoising strength: 0.7-0.9
 ```
-
+* Generate thoi :))
