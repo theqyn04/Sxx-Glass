@@ -48,7 +48,7 @@ Chạy ứng dụng:
 * Nhớ tích Fill, Only masked
 * Prompt nên dùng:
 ```bash
-  positive: "nude, naked, no clothes, bare skin, high quality, detailed"
+  positive: "nude, naked, no clothes, bare skin, high quality, detailed, big boobs"
   negative: "clothes, dressed, underwear, bra, panties, low quality, blurry"
 ```
 * Cài đặt:
